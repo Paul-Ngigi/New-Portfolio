@@ -10,6 +10,7 @@ import { LandingComponent } from './components/landing/landing.component';
 import { AboutComponent } from './components/about/about.component';
 import { ServicesComponent } from './components/services/services.component';
 import { ProjectsComponent } from './components/projects/projects.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import { ProjectsComponent } from './components/projects/projects.component';
     AboutComponent,
     ServicesComponent,
     ProjectsComponent,
+    FooterComponent,
   ],
   imports: [
     BrowserModule,
