@@ -1,0 +1,26 @@
+.myPic{
+    height: 350px;
+    width: 450px;
+    border-radius: 40%;
+}
+.greeting{
+    color: teal;
+}
+.greeting:hover{
+    cursor: pointer;
+    color: sienna;
+}
+.author{
+    color: teal;
+}
+.author:hover{
+    cursor: pointer;
+    color: blue;
+}
+.career{
+    color: teal;
+}
+.career:hover{
+    cursor: pointer;
+    color: palevioletred;
+}
